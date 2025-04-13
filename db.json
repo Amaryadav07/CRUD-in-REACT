@@ -1,0 +1,46 @@
+{
+  "Employee": [
+    {
+      "empno": 1,
+      "name": "Amar nath",
+      "designation": "hacker",
+      "salary": 5000,
+      "id": "268c"
+    },
+    {
+      "id": "fec2",
+      "empno": "001",
+      "name": "Aakash Madhwal",
+      "designation": "Junior Developer",
+      "salary": "25000"
+    },
+    {
+      "id": "5543",
+      "empno": "002",
+      "name": "Harshal",
+      "designation": "Python Developer",
+      "salary": "45000"
+    },
+    {
+      "id": "52c9",
+      "empno": "003",
+      "name": "Nikhil",
+      "designation": "Java Developer",
+      "salary": "45000"
+    },
+    {
+      "id": "7b34",
+      "empno": "005",
+      "name": "sonali",
+      "designation": "Data Science",
+      "salary": "50000"
+    },
+    {
+      "id": "3bcc",
+      "empno": "004",
+      "name": "Raju",
+      "designation": "Banking officer",
+      "salary": "100000"
+    }
+  ]
+}
