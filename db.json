@@ -1,13 +1,6 @@
 {
   "Employee": [
     {
-      "empno": 1,
-      "name": "Amar nath",
-      "designation": "hacker",
-      "salary": 5000,
-      "id": "268c"
-    },
-    {
       "id": "fec2",
       "empno": "001",
       "name": "Aakash Madhwal",
@@ -40,6 +33,13 @@
       "empno": "004",
       "name": "Raju",
       "designation": "Banking officer",
+      "salary": "100000"
+    },
+    {
+      "id": "e3b4",
+      "empno": "008",
+      "name": "Amar ",
+      "designation": "Mern Developer",
       "salary": "100000"
     }
   ]

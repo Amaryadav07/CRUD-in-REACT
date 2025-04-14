@@ -80,24 +80,22 @@ const Home = () => {
       <Carousel.Item>
        <img src={myimg1} style={{width:"100%",height:"650px"}} />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h3 style={{color:"green",fontSize:"3rem",textShadow:"0px 2px white"}}>Conference Room</h3>
+         
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
       <img src={myimg2} style={{width:"100%",height:"650px"}} />
         <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h3 style={{color:"green",fontSize:"3rem"}}>Client Meeting</h3>
+        
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
       <img src={myimg3} style={{width:"100%",height:"650px"}} />
         <Carousel.Caption>
-          <h3>Third slide label</h3>
-          <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-          </p>
+          <h3 style={{color:"green",fontSize:"3rem"}}>Project Managment</h3>
+          
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
